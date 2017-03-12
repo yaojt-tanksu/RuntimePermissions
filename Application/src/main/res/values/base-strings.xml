@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">RuntimePermissions</string>
+    <string name="intro_message">
+        这是用来展示在Android M 及以上的平台使用运行时权限的例子。并且在屏幕上显示执行的顺序log。
+    </string>
+</resources>

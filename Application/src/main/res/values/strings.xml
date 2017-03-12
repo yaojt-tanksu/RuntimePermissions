@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">确定</string>
+    <string name="contacts_string">联系人总数： %1$,d\n第一个联系人<b>%2$s</b></string>
+    <string name="contacts_none">木有联系人</string>
+    <string name="contacts_empty">没有联系人</string>
+    <string name="add_contact">添加联系人</string>
+    <string name="show_contact">显示第一个联系人</string>
+    <string name="contacts_intro">此fragment是访问设备上的联系人.点击增加联系人去添加"__DUMMY ENTRY"名字的联系人到db数据库。
+        点击"显示第一位联系人"去读取并显示在联系人列表中第一位联系人信息。</string>
+    <string name="camera_unavailable"><b>相机不能被打开</b>可能是您的相机在使用中，或者没有权限。</string>
+    <string name="back">返回</string>
+    <string name="show_camera">显示相机预览</string>
+    <string name="show_contacts">显示增加的联系人</string>
+    <string name="main_introduction">按下下面两个按钮，用来显示相机预览或者是访问联系人。访问联系人至少是Android M及以上才可用。M以下不会请求权限</string>
+    <string name="permision_available_camera">已授于相机权限。相机可以正常打开了。</string>
+    <string name="permision_available_contacts">联系人权限已被授予。可以争取读写联系人了。</string>
+    <string name="permissions_not_granted">申请权限被拒绝。</string>
+    <string name="permission_camera_rationale">需要相机权限才能进行相机预览。</string>
+    <string name="permission_contacts_rationale">需要读写联系人权限方可读取联系人信息。</string>
+</resources>

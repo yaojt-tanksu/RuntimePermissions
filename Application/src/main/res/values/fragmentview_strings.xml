@@ -1,0 +1,4 @@
+<resources>
+    <string name="sample_show_log">显示log日志</string>
+    <string name="sample_hide_log">隐藏log日志</string>
+</resources>
